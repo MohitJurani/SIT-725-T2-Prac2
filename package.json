@@ -1,0 +1,23 @@
+{
+  "name": "sit725-2022-t2-prac2",
+  "version": "1.0.0",
+  "description": "Practical Task 2",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MohitJurani/SIT725-2022-T2-Prac2.git"
+  },
+  "author": "Mohit Jurani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MohitJurani/SIT725-2022-T2-Prac2/issues"
+  },
+  "homepage": "https://github.com/MohitJurani/SIT725-2022-T2-Prac2#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
